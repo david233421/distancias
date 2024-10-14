@@ -5,6 +5,8 @@ using namespace std;
 int main() {
     double x1,x2,y1,y2,d;
     cout<<"programa para calcular la distancia en tre dos puntos "<<endl;
+    cout <<"nombre del autor: david almanza lopez" <<endl;
+    cout <<"fecha: 14/10/2024" <<endl;
     cout<<"x1:";
     cin >> x1;
     cout<<"y1:";
